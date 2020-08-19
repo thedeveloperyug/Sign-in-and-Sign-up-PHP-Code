@@ -1,0 +1,33 @@
+body{
+margin: 0px;
+padding: 0px;
+background-color:#3498db;
+
+
+}
+.responsive{
+height: 500px;
+width: 400px;
+ color: azure;
+  
+}
+
+.contain{
+  
+    padding:10px ;
+margin-top: 50px;
+justify-content: center;
+align-content: center;
+    background-color: #7d5fff;
+    height: 80vh;
+    color: azure;
+    box-sizing: border-box;
+    width: 500px;
+    border-radius: 20px;
+    box-shadow: #1e272e 0px 0px 10px 1px;
+
+}
+#nme{
+margin-top: 20px;
+margin-bottom: 30px;
+}
